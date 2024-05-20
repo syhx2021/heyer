@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "chat-llm.h": "c",
+        "hash.h": "c"
+    }
+}
